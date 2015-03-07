@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\MPS\Assets\GameOver.js">
+    <Files>
+      <File FileName="..\MPS\Assets\Banana.js" Line="8" Column="48" />
+      <File FileName="..\MPS\Assets\GameManager.js" Line="4" Column="1" />
+      <File FileName="..\MPS\Assets\GameSetup.js" Line="1" Column="1" />
+      <File FileName="..\MPS\Assets\GameOver.js" Line="6" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

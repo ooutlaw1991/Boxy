@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: d64a4bd1839bd024a9e9c3fb1000ffb0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - boxeyAnim: {instanceID: 0}
+  - blue_pref: {fileID: 400000, guid: 78ec2a2fa83318d4399122d62f7fd329, type: 2}
+  - orange_pref: {fileID: 400000, guid: 137f9520457bb484d913c9cba1c05ed9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
